@@ -32,7 +32,7 @@ Onde estiver [xxx] em todo o repositório, mude para o tema do seu grupo. Como, 
 
 Exemplo de repositório: [grupo-de-estudo-php]().
 
-Com tudo isso pronto, você irá enviar o seu repositório para o Training Center. Para isso acesse a aba de configurações (settings) e clique em **transfer** na sessão **Transfer ownership**. Onde estiver para colocar o nome do usuário, coloque `training-center`.
+Com tudo isso pronto, você irá enviar o seu repositório para o FGF College Work. Para isso acesse a aba de configurações (settings) e clique em **transfer** na sessão **Transfer ownership**. Onde estiver para colocar o nome do usuário, coloque `FGF-College-Work`.
 
 ![Imagem de transferência de repositório](https://i.imgur.com/AP2lNN6.png)
 
